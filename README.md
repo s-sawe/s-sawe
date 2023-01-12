@@ -1,6 +1,5 @@
 <h4 align="center">Hi there 👋🏾 welcome to my Github!</h4>
 <br>
-<img align="middle" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="250">
 <h4 align="center">The Technologies & Tools I Use Are: </h4>
 <p align="center">
  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="firebase" width="40" height="40"/> </a>
